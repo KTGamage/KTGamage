@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/kasun-tharaka-5aa740311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9YKOi7a7T%2FCa5iHNhJQ8mQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kasuntharaka18628@gmail.com">
@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 ---
 
 ⭐️ From [Kasun Tharaka](https://github.com/KTGamage)
-"Adding a test commit" 
+
