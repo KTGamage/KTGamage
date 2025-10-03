@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🎓 **IT Undergraduate** at *Faculty of Computing, Sabaragamuwa University of Sri Lanka*  
 - 🌱 Currently learning **MERN Stack, Cloud Computing & AI tools**  
 - 👯 I’m open to collaborate on **open-source projects**  
-- 📫 Reach me at **youremail@example.com**  
+- 📫 Reach me at **kasuntharaka18628@gmail.com**  
 - ⚡ Fun fact: I love solving coding challenges and exploring new tech  
 
 ---
