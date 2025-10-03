@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasuntharaka&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasuntharaka&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KTGamage&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTGamage&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasuntharaka&theme=react-dark&bg_color=20232a&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KTGamage&theme=react-dark&bg_color=20232a&hide_border=true" />
 </p>
 
 ---
