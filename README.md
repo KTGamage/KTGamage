@@ -37,9 +37,12 @@
 ---
 
 ### 🚀 Featured Projects
-- 💎 [Jewellery Store MERN App](https://github.com/yourusername/jewellery-app)  
-- 🍔 [Restaurant QR Menu App](https://github.com/yourusername/restaurant-menu)  
-- 🤖 [AI Note & Question Generator](https://github.com/yourusername/ai-note-generator)  
+- 💎 [Jewellery Store MERN App](https://github.com/KTGamage/Jewelly-Store-MERN-App.git)  
+- 🧳 [AI Travel Planner App](https://github.com/KTGamage/AI-Travel-Planner.git)  
+- 🍔 [Restaurant Menu Website](https://github.com/KTGamage/Restaurant-site.git)  
+- 🚚 [Food Delivery Website](https://github.com/KTGamage/Food-Deliery-Website.git)  
+- 👗 [Fashion Store Website](https://github.com/KTGamage/Fashion-Store-Website.git) 
+- 🎓 [Education Website](https://github.com/KTGamage/Education-site.git)  
 
 ---
 
