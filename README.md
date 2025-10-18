@@ -37,6 +37,7 @@
 ---
 
 ### 🚀 Featured Projects
+- 👦 [Portfolio](https://github.com/KTGamage/My-portfolio.git)  
 - 💎 [Jewellery Store MERN App](https://github.com/KTGamage/Jewelly-Store-MERN-App.git)  
 - 🧳 [AI Travel Planner App](https://github.com/KTGamage/AI-Travel-Planner.git)  
 - 🍔 [Restaurant Menu Website](https://github.com/KTGamage/Restaurant-site.git)  
