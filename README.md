@@ -39,7 +39,8 @@
 ### 🚀 Featured Projects
 - 👦 [Portfolio](https://github.com/KTGamage/My-portfolio.git)  
 - 💎 [Jewellery Store MERN App](https://github.com/KTGamage/Jewelly-Store-MERN-App.git)  
-- 🧳 [AI Travel Planner App](https://github.com/KTGamage/AI-Travel-Planner.git)  
+- 🧳 [AI Travel Planner App](https://github.com/KTGamage/AI-Travel-Planner.git)
+- 🏢 [Hostel Management System](https://github.com/KTGamage/susl-hostel-management-system.git)
 - 🍔 [Restaurant Menu Website](https://github.com/KTGamage/Restaurant-site.git)  
 - 🚚 [Food Delivery Website](https://github.com/KTGamage/Food-Deliery-Website.git)  
 - 👗 [Fashion Store Website](https://github.com/KTGamage/Fashion-Store-Website.git) 
